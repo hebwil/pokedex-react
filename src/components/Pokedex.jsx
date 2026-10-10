@@ -131,7 +131,7 @@ export default function Pokedex() {
           )}
         </section>
       </main>
-      <footer><span>Feito com curiosidade. E um pouco de React.</span><span>Dados e imagens: <a href="https://pokeapi.co/" target="_blank" rel="noreferrer">PokéAPI ↗</a></span></footer>
+      <footer><span>Created by Will.</span><span>Dados e imagens: <a href="https://pokeapi.co/" target="_blank" rel="noreferrer">PokéAPI ↗</a></span></footer>
     </>
   );
 }
