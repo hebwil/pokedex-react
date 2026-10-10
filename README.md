@@ -4,6 +4,12 @@ Atividade prática de React: uma Pokédex responsiva que consulta a API pública
 
 **Repositório:** https://github.com/hebwil/pokedex-react
 
+## Abrir o projeto publicado
+
+**[Will — Pokédex no GitHub Pages](https://hebwil.github.io/pokedex-react/)**
+
+A versão de Will inclui identidade visual própria, assinatura com link, cards clicáveis com ficha de atributos e habilidades, busca por nome ou número, filtros por tipo com contagem, ordenação e favoritos salvos no navegador. A coleção mantém os primeiros 20 Pokémon exigidos na atividade.
+
 ## Executar localmente
 
 Pré-requisito: Node.js 22.12 ou superior e npm.
